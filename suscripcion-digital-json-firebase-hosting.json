@@ -1,0 +1,178 @@
+{
+  "detalles": {
+    "LIB001": {
+      "Autor": "Rainbow Rowell",
+      "Descuento": 5,
+      "Editorial": "St. Martin's Press",
+      "Fecha": 2013,
+      "Nombre": "Fangirl",
+      "Portada": "fangirl",
+      "Precio": 16.99,
+      "URL": "Fangirl"
+    },
+    "LIB002": {
+      "Autor": "Kiera Cass",
+      "Descuento": 10,
+      "Editorial": "HarperTeen",
+      "Fecha": 2012,
+      "Nombre": "La Seleccion",
+      "Portada": "seleccion",
+      "Precio": 14.99,
+      "URL": "La_seleccion"
+    },
+    "LIB003": {
+      "Autor": "Gabriel Garcia Marquez",
+      "Descuento": 8,
+      "Editorial": "Editorial Oveja Negra",
+      "Fecha": 1985,
+      "Nombre": "El amor en los tiempos del colera",
+      "Portada": "amor_colera",
+      "Precio": 19.99,
+      "URL": "amor_tiempos_colera"
+    },
+    "LIB004": {
+      "Autor": "Lauren Kate",
+      "Descuento": 0,
+      "Editorial": "Montena",
+      "Fecha": "2009-10-01",
+      "Nombre": "Oscuros 2",
+      "Portada": "portadaoscuros",
+      "Precio": "12.99",
+      "URL": "Oscuros"
+    },
+    "MAN001": {
+      "Autor": "Natsu Hyuuga",
+      "Descuento": 3,
+      "Editorial": "Square Enix",
+      "Fecha": 2023,
+      "Nombre": "Diario de una Boticaria",
+      "Portada": "boticaria",
+      "Precio": 9.99,
+      "URL": "Diarios_De_Una_Boticaria"
+    },
+    "MAN002": {
+      "Autor": "Tatsuya Endo",
+      "Descuento": 5,
+      "Editorial": "Shueisha",
+      "Fecha": 2023,
+      "Nombre": "Spy x Family",
+      "Portada": "spyfamily",
+      "Precio": 12.99,
+      "URL": "Spy_x_family"
+    },
+    "MAN003": {
+      "Autor": "Hajime Isayama",
+      "Descuento": 2.99,
+      "Editorial": "Kodansha",
+      "Fecha": 2022,
+      "Nombre": "Shingeki no Kyojin",
+      "Portada": "ataque_titanes",
+      "Precio": 14.99,
+      "URL": "Shingeki_No_Kyojin"
+    },
+    "REV001": {
+      "Autor": "María López",
+      "Descuento": 15,
+      "Editorial": "Editorial Ágora",
+      "Fecha": 2024,
+      "Nombre": "Your Fashion Zine",
+      "Portada": "your_fashion_zine",
+      "Precio": 49.99,
+      "URL": "Fashion_Zine"
+    },
+    "REV002": {
+      "Autor": "Juan Pérez",
+      "Descuento": 5,
+      "Editorial": "Editorial Horizonte",
+      "Fecha": 2024,
+      "Nombre": "Turismo Moderna",
+      "Portada": "turismo_moderna_verde",
+      "Precio": 35.5,
+      "URL": "Turismo_Moderna_Verde"
+    },
+    "REV003": {
+      "Autor": "Laura Méndez",
+      "Descuento": 10,
+      "Editorial": "Estilo y Espacios",
+      "Fecha": 2023,
+      "Nombre": "Decoración Hogar Moderna",
+      "Portada": "decoración_hogar_moderna",
+      "Precio": 40,
+      "URL": "Decoracion_Hogar_Moderna"
+    }
+  },
+  "productos": {
+    "libros": {
+      "LIB001": "Fangirl",
+      "LIB002": "La Seleccion",
+      "LIB003": "El amor en los tiempos del colera",
+      "LIB004": "Oscuros 2"
+    },
+    "mangas": {
+      "MAN001": "Diario de una Boticaria",
+      "MAN002": "Spy x Family",
+      "MAN003": "Shingeki no Kyojin"
+    },
+    "revistas": {
+      "REV001": "Your Fashion Zine",
+      "REV002": "Turismo Moderna",
+      "REV003": "Decoración Hogar Moderna"
+    }
+  },
+  "respuestas": {
+    "200": "Categoria encontrada exitosamente",
+    "201": "Título encontrado exitosamente.",
+    "202": "Producto registrado correctamente.",
+    "203": "Producto actualizado correctamente.",
+    "204": "Producto borrado correctamente.",
+    "205": "Suscripción exitosa",
+    "300": "Categoria no encontrada.",
+    "301": "ISBN no encontrado.",
+    "302": "El producto ya existe.",
+    "303": "El JSON está mal formado.",
+    "304": "El ISBN del producto no existe.",
+    "305": "El Título no esta disponible.",
+    "306": "Productos de la categoría encontrados",
+    "401": "El nombre de usuario ya esta en uso",
+    "402": "El correo ya esta registrado",
+    "500": "Usuario no reconocido.",
+    "501": "Password no reconcido.",
+    "502": "Error al registrar el usuario",
+    "999": "Error no identificado"
+  },
+  "usuarios": {
+    "-OCJujq2Dr6x_j-0I-5Y": {
+      "email": "eve_flor17@outlook.com",
+      "numCuenta": "1234567890",
+      "pago": "Tarjeta-Debito",
+      "password": "$2y$10$a5BSv/Ps0paEJssEhnbQ/O8VhUrjEYQobkGrB6wvSJDkt4ny5Kjhe",
+      "plan": "3-meses",
+      "username": "Pruebas"
+    },
+    "-OCMbJWytmwgYfnI2uNn": {
+      "email": "evelyn.floresj15@gmail.com",
+      "numCuenta": "1234567891",
+      "pago": "Tarjeta-Credito",
+      "password": "$2y$10$W9M5aVxWJvrFFgZkG.pSh.ZaKPlgtrbf7UgwdMNc4rLJ0sV6KCNlC",
+      "plan": "6-meses",
+      "username": "jimena"
+    },
+    "-OCROkLZTm6OfV4EQsJ0": {
+      "email": "j16fut10@gmail.com",
+      "numCuenta": "1516274567",
+      "pago": "Tarjeta-Debito",
+      "password": "$2y$10$Ug0d4kefZ/73dYe1hI4M5u5tu9OAB19sCf1bCGvtwI/aqaqsk0T6e",
+      "plan": "3-meses",
+      "username": "josue"
+    },
+    "-OCROvLuI99pdXivcDVh": {
+      "email": "maold47@gmail.com",
+      "numCuenta": "6547893215",
+      "pago": "Tarjeta-Credito",
+      "password": "$2y$10$WV5X82eb0aQ6/R.xzvmTaevm0yf2zABMgPQa9sHAJFo.3G9X8875S",
+      "plan": "6-meses",
+      "username": "luis"
+    },
+    "admin": "de88e3e4ab202d87754078cbb2df6063"
+  }
+}
